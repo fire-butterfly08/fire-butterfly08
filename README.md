@@ -2,7 +2,8 @@
 
 Full-Stack Engineer building healthcare-focused applications while learning applied AI/ML.
 
-I work across the stack, mainly on backend systems, APIs, databases, and integrations. Most of my experience comes from healthcare and enterprise environments where reliability and maintainability matter.
+I work across the stack, mainly on backend systems, APIs, databases, and integrations.
+Most of my experience comes from healthcare and enterprise environments where reliability and maintainability matter.
 
 Right now, I’m learning AI/ML from a practical perspective - especially how AI features can fit naturally into real products and workflows.
 

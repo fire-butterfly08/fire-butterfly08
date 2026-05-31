@@ -1,4 +1,3 @@
-````md id="q8l1ka"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,100:0ea5e9&text=EFREN%20FERNANDEZ&fontAlign=50&fontAlignY=38&fontSize=56&fontColor=f8fafc&desc=Senior%20Full-Stack%20Developer%20•%20React%20•%20Node.js%20•%20PostgreSQL&descAlignY=58&animation=fadeIn"/>
@@ -25,8 +24,6 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fire-butterfly08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fire-butterfly08&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
@@ -47,27 +44,21 @@ Focused on performance, architecture, and execution.
 
 ---
 
-# STACK
+# TECH STACK 
 
-<div align="center">
+<table align="center"> <tr> <th>Frontend</th> <th>Backend</th> <th>Mobile</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,mui,sass" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,laravel" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react,firebase" /> </td> </tr> </table> <br/> <table align="center"> <tr> <th>Databases</th> <th>DevOps / Cloud</th> <th>Extras</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=docker,aws,git,github" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=postman,figma" /> <br/><br/> <sub>REST APIs • CI/CD • Agile/Scrum</sub> </td> </tr> </table>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres,mongodb,docker,aws,tailwind,redux,git"/>
-
-</div>
-
----
+--- 
 
 # HIGHLIGHTS
-
-```txt
-→ Built 15+ production applications
-→ Improved API performance by 30%
-→ Reduced database latency by 35%
-→ Optimized frontend load times by 40%
-→ Architected systems handling 500K+ records
-→ Built SaaS platforms serving 1,000+ daily users
+```text
+  → Built 15+ production applications
+  → Improved API performance by 30%
+  → Reduced database latency by 35%
+  → Optimized frontend load times by 40%
+  → Architected systems handling 500K+ records
+  → Built SaaS platforms serving 1,000+ daily users
 ```
-
 ---
 
 # EXPERIENCE
@@ -101,7 +92,6 @@ Mapúa University — 2024
 
 <div align="center">
 
-### “Build systems people depend on.”
+### “Let's create something amazing.”
 
 </div>
-```
